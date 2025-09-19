@@ -109,11 +109,25 @@ git push origin main
 3. **Theme System** - CSS variables with Tailwind's dark mode for smooth transitions
 4. **Error Recovery** - Multiple fallback strategies for robust user experience
 
-## ⚠️ Known Limitations
+# Weather Chat App
 
-- Chat history resets on page reload (no persistence)
-- Single thread per session
-- Text-only messages (no file attachments)
+## Features
+- Real-time streaming API responses
+- Dark/Light theme toggle
+- Message search
+- Export chat history
+- Responsive design with Tailwind
+
+---
+
+## Documentation
+### 1. Brief Explanation of Approach
+...
+### 2. Assumptions Made
+...
+### 3. Known Limitations & Areas for Improvement
+...
+
 
 ## 🎯 Future Enhancements
 
