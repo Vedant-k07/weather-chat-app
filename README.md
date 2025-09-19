@@ -4,8 +4,8 @@ A responsive React chat interface for weather queries with real-time streaming r
 
 ## 🔗 Live Demo & Repository
 
-- **Live Demo:** [https://your-app.vercel.app](https://your-app.vercel.app)
-- **GitHub:** [https://github.com/yourusername/weather-chat-app](https://github.com/yourusername/weather-chat-app)
+- **Live Demo:** [https://weather-chat-app-blue.vercel.app/]()https://weather-chat-app-blue.vercel.app/
+- **GitHub:** [https://github.com/Vedant-k07/weather-chat-app](https://github.com/Vedant-k07/weather-chat-app)
 
 ## ⚡ Quick Setup
 
